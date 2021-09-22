@@ -13,4 +13,8 @@ public class ClassA {
     public String str(String s) {
         return s;
     }
+
+    public String astr() {
+        return str(astr());
+    }
 }
