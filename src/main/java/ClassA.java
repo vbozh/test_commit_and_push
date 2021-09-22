@@ -17,4 +17,6 @@ public class ClassA {
     public String astr() {
         return str(astr());
     }
+
+    //todo 1
 }
