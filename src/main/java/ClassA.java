@@ -6,17 +6,5 @@ public class ClassA {
         }
     }
 
-    public void foo() {
-        return;
-    }
-
-    public String str(String s) {
-        return s;
-    }
-
-    public String astr() {
-        return str(astr());
-    }
-
-    //todo 123456
+    //todo 1234567
 }
